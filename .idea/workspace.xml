@@ -4,6 +4,7 @@
     <list default="true" id="fabed9ca-06a5-49da-a4b2-803c8c02b819" name="Default" comment="" />
     <ignored path="HelloWorld.iws" />
     <ignored path=".idea/workspace.xml" />
+    <file path="/pom.xml" changelist="fabed9ca-06a5-49da-a4b2-803c8c02b819" time="1372745090958" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +65,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="HelloController.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HelloController.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="23" selection-start="465" selection-end="465" vertical-scroll-proportion="0.17985612">
+            <state line="15" column="125" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="21" selection-start="2078" selection-end="2078" vertical-scroll-proportion="0.58633095">
               <folding />
             </state>
           </provider>
@@ -102,6 +112,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -585,7 +596,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/springapp/mvc/HelloController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="23" selection-start="465" selection-end="465" vertical-scroll-proportion="0.17985612">
+        <state line="15" column="125" selection-start="470" selection-end="470" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="21" selection-start="2078" selection-end="2078" vertical-scroll-proportion="0.58633095">
           <folding />
         </state>
       </provider>
